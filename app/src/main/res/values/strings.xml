@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">E4TodoList</string>
+    <string name="add_task">Add task</string>
 </resources>
